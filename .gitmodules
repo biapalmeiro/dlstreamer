@@ -1,3 +1,6 @@
+[submodule "libraries/dl-streamer/thirdparty/spdlog"]
+	path = libraries/dl-streamer/thirdparty/spdlog
+	url = https://github.com/gabime/spdlog.git
 [submodule "thirdparty/spdlog"]
 	path = thirdparty/spdlog
 	url = https://github.com/gabime/spdlog.git
